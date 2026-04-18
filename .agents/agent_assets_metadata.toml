@@ -1,0 +1,8 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "8MIHuU34OHelHECalsDkc"
+uri = "file://artifacts/nord-terminal/assets/images/icon.png"
+type = "image"
+title = "nord terminal app icon"
